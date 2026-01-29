@@ -1,0 +1,22 @@
+name: chem_bio
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - rdkit
+  - openbabel
+  - biopython
+  - prody
+  - mdanalysis
+  - plotly
+  - ipywidgets
+  - black
+  - flake8
